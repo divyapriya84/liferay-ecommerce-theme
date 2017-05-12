@@ -1,0 +1,13 @@
+Bundle-SymbolicName: ecommerce.service-service
+Bundle-Version: 1.0.0
+Liferay-Require-SchemaVersion: 1.0.0
+Liferay-Service: true
+Export-Package:\
+	com.rivetlogic.ecommerce.beans,\
+	com.rivetlogic.ecommerce.paypal,\
+	com.rivetlogic.ecommerce.notification,\
+	com.rivetlogic.ecommerce.notification.constants,\
+	com.rivetlogic.ecommerce.notification.util,\
+	com.rivetlogic.ecommerce.cart,\
+	com.rivetlogic.ecommerce.service.util,\
+	

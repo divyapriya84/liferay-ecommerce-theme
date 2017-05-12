@@ -1,0 +1,7 @@
+Bundle-SymbolicName: ecommerce.service-api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.rivetlogic.ecommerce.exception,\
+	com.rivetlogic.ecommerce.model,\
+	com.rivetlogic.ecommerce.service,\
+	com.rivetlogic.ecommerce.service.persistence
